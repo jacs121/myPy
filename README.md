@@ -14,6 +14,6 @@
 
 think to [howcode](https://www.youtube.com/howCode) for the basic tutorial
 
-and form [Grepper-extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco)
+and form [Grepper extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco)
 
 and think you for your time.
