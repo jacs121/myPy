@@ -1,6 +1,8 @@
 ***program Editer***
+
 **!python extensions!**
 * pip install sly
+
 **--program options--**
 * FOR {var one} TO {var two} THEN {statement}
 * FUN {name} () -> {statement}
