@@ -1,0 +1,2 @@
+FOR x = 0 TO 2 THEN x
+x= 1
