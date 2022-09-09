@@ -1,5 +1,6 @@
 ***program Editer***
-
+**!python extensions!**
+* pip install sly
 **--program options--**
 * FOR {var one} TO {var two} THEN {statement}
 * FUN {name} () -> {statement}
@@ -9,7 +10,7 @@
 **--description--**
 * you can rate multilayer's of code
 * you can work on multiple projects at once
-* 
+
 **--thinks--**
 
 think to [howcode](https://www.youtube.com/howCode) for the basic tutorial
